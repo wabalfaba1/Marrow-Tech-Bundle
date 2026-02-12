@@ -22,4 +22,14 @@ Automated hardening for your OpenClaw environment.
 3. Watch your context lean out and your security harden.
 
 ---
+## 🏛️ The Council Edition (Full Support)
+**[Launch Special: $14.99 - Support the NVIDIA Spark Hardware Fund]**
+- **MarrowPruner (Full SVD Edition)**: Advanced Singular Value Decomposition logic for surgical context preservation.
+- **Council Guardian**: Full environment hardening, firewall verification, and recursive permission audits.
+- **7-Day "Survival" Guarantee**: If it doesn't save you $15 in cloud tokens, you get your money back.
+- **Support the Fund**: [Coming Soon: Gumroad Link]
+
+*Early adopters get the 'Founder's Badge' and lifetime updates for this branch.*
+
+---
 *Created by the Council to fund the NVIDIA Spark Project.*
